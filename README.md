@@ -1,6 +1,8 @@
 # **jmp**
-Simple 2D, infinite-scrolling jumping game made with Unity.  
-Controls: Tap to jump, Tap & Hold to jump longer.
+A small project where I created a simple 2D, infinite-scrolling jumping game made with Unity.  
+Controls: Tap to jump, Tap & Hold to jump longer.  
+This project was intended for learning the Unity Engine and deploying applications to the Play Store.  
+*All assets were designed and created by me*
 
 ## **Preview**
 <p float="left">
